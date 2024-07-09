@@ -1,0 +1,5 @@
+C:\Users\safur\source\repos\dcit318-assignment4-10946068\Addressbook application\Addressbook application\obj\Debug\Addressbook application.csproj.AssemblyReference.cache
+C:\Users\safur\source\repos\dcit318-assignment4-10946068\Addressbook application\Addressbook application\obj\Debug\AddressBookApp.Form1.resources
+C:\Users\safur\source\repos\dcit318-assignment4-10946068\Addressbook application\Addressbook application\obj\Debug\Addressbook_application.Properties.Resources.resources
+C:\Users\safur\source\repos\dcit318-assignment4-10946068\Addressbook application\Addressbook application\obj\Debug\Addressbook application.csproj.GenerateResource.cache
+C:\Users\safur\source\repos\dcit318-assignment4-10946068\Addressbook application\Addressbook application\obj\Debug\Addressbook application.csproj.CoreCompileInputs.cache
